@@ -18,7 +18,8 @@ This project recognizes American Sign Language (ASL) letters and hand gestures (
  Custom gesture using webcam:- https://www.kaggle.com/datasets/tanvi19005/hand-gesture-dataset
 
 
-How to Run the Project
+## How to Run the Project
+
 -Download the following files and place them in the same folder:
 
 finalcode.ipynb
@@ -35,5 +36,6 @@ Note:
 If you saved your .keras model files in a different location, make sure to update the model path in the notebook:
 
   gesture_model = load_model("path_to/mobilenetv2_gesture_model.keras")
+  
   asl_model = load_model("path_to/asl_mobilenet_model.keras")
 
