@@ -9,7 +9,7 @@ This project recognizes American Sign Language (ASL) letters and hand gestures (
 - Pygame
 - Pillow
 
-Note:-Images were augmented using augmentation.py before training
+Note:-Images were augmented using augmentation_script.ipynb before training
 
 
 
