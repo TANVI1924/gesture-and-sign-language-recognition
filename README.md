@@ -42,7 +42,7 @@ If you saved your .keras model files in a different location, make sure to updat
   asl_model = load_model("path_to/asl_mobilenet_model.keras")
 
 
-DETECTING REAL-TIME:-
+ REAL-TIME DETECTION:-
 <img width="2000" height="1068" alt="image" src="https://github.com/user-attachments/assets/4745d0f6-0ace-4097-a6fb-f0184ddd6091" />
 
 <img width="2000" height="1062" alt="image" src="https://github.com/user-attachments/assets/a7c221f3-cf7b-4c74-9d55-0399328462f0" />
